@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/stats-base-smeankbn2",
-  "version": "0.0.6",
+  "version": "0.0.0",
   "description": "Calculate the arithmetic mean of a single-precision floating-point strided array using a second-order iterative Kahan–Babuška algorithm.",
   "license": "Apache-2.0",
   "author": {
