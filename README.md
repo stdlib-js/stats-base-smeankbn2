@@ -63,6 +63,11 @@ The [arithmetic mean][arithmetic-mean] is defined as
 ## Usage
 
 ```javascript
+import smeankbn2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-smeankbn2@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/stats-base-smeankbn2/tags). For example,
+
+```javascript
 import smeankbn2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-smeankbn2@v0.2.0-deno/mod.js';
 ```
 
@@ -171,7 +176,7 @@ var v = smeankbn2.ndarray( N, x, 2, 1 );
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@deno/mod.js';
 import Float32Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float32@deno/mod.js';
-import smeankbn2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-smeankbn2@v0.2.0-deno/mod.js';
+import smeankbn2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-smeankbn2@deno/mod.js';
 
 var x;
 var i;
