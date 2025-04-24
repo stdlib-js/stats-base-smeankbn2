@@ -4,7 +4,19 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-18)
+## Unreleased (2025-04-24)
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#6787](https://github.com/stdlib-js/stdlib/issues/6787)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +24,7 @@
 
 <details>
 
+-   [`f193925`](https://github.com/stdlib-js/stdlib/commit/f193925ef8a4ceaf75fe5748fe62759a8514f4a7) - **chore:** disable lint rule [(#6797)](https://github.com/stdlib-js/stdlib/pull/6797) _(by Dipjyoti Das)_
 -   [`0bba6a2`](https://github.com/stdlib-js/stdlib/commit/0bba6a27810dd0e3c37ddc201c07b938f4ddc3ad) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`ff21f9a`](https://github.com/stdlib-js/stdlib/commit/ff21f9a65c8b39819ffe2f7348559f928f6e5340) - **refactor:** update `stats/base/smeankbn2` native addon from C++ to C [(#4464)](https://github.com/stdlib-js/stdlib/pull/4464) _(by Vivek Maurya)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
@@ -27,9 +40,10 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
+-   Dipjyoti Das
 -   Philipp Burckhardt
 -   Vivek Maurya
 
