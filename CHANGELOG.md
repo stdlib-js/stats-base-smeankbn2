@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-24)
+## Unreleased (2025-04-26)
 
 <section class="issues">
 
@@ -24,6 +24,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`9f85b5d`](https://github.com/stdlib-js/stdlib/commit/9f85b5d90cb6fcaf052116cd06aa4a693757f0ec) - **test:** fix description _(by Philipp Burckhardt)_
 -   [`f193925`](https://github.com/stdlib-js/stdlib/commit/f193925ef8a4ceaf75fe5748fe62759a8514f4a7) - **chore:** disable lint rule [(#6797)](https://github.com/stdlib-js/stdlib/pull/6797) _(by Dipjyoti Das)_
 -   [`0bba6a2`](https://github.com/stdlib-js/stdlib/commit/0bba6a27810dd0e3c37ddc201c07b938f4ddc3ad) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`ff21f9a`](https://github.com/stdlib-js/stdlib/commit/ff21f9a65c8b39819ffe2f7348559f928f6e5340) - **refactor:** update `stats/base/smeankbn2` native addon from C++ to C [(#4464)](https://github.com/stdlib-js/stdlib/pull/4464) _(by Vivek Maurya)_
