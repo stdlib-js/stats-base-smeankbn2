@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-08)
+## Unreleased (2025-06-29)
+
+<section class="features">
+
+### Features
+
+-   [`e559d14`](https://github.com/stdlib-js/stdlib/commit/e559d14a25bef7d018ad35133fe67188104d6e48) - add C ndarray interface and refactor implementation for `stats/base/smeankbn2` [(#7498)](https://github.com/stdlib-js/stdlib/pull/7498)
+
+</section>
+
+<!-- /.features -->
 
 <section class="issues">
 
@@ -24,6 +34,8 @@ This release closes the following issue:
 
 <details>
 
+-   [`e559d14`](https://github.com/stdlib-js/stdlib/commit/e559d14a25bef7d018ad35133fe67188104d6e48) - **feat:** add C ndarray interface and refactor implementation for `stats/base/smeankbn2` [(#7498)](https://github.com/stdlib-js/stdlib/pull/7498) _(by Gururaj Gurram, Athan Reines, stdlib-bot)_
+-   [`f4f0180`](https://github.com/stdlib-js/stdlib/commit/f4f0180796dd425529a5c04a9023358cba8fac01) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`bcd0411`](https://github.com/stdlib-js/stdlib/commit/bcd04112308e7d7b42de2bc04599d490e429ebc8) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`9f85b5d`](https://github.com/stdlib-js/stdlib/commit/9f85b5d90cb6fcaf052116cd06aa4a693757f0ec) - **test:** fix description _(by Philipp Burckhardt)_
 -   [`f193925`](https://github.com/stdlib-js/stdlib/commit/f193925ef8a4ceaf75fe5748fe62759a8514f4a7) - **chore:** disable lint rule [(#6797)](https://github.com/stdlib-js/stdlib/pull/6797) _(by Dipjyoti Das)_
@@ -42,9 +54,10 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 5 people contributed to this release. Thank you to the following contributors:
+A total of 6 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
+-   Athan Reines
 -   Dipjyoti Das
 -   Gururaj Gurram
 -   Philipp Burckhardt
